@@ -4,3 +4,5 @@ Food:
 - bread
 - burger
 - new: ice-cream
+- new: beef
+
